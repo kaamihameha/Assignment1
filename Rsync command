@@ -1,0 +1,2 @@
+rsync -avze ssh amg2013.readme bola@lxhalle.in.tum.de:/u/halle/bola/home_at
+

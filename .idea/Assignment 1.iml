@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_matvec.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_matrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/headers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/HYPRE_sstruct_mv.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/box_map.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/HYPRE_sstruct_vector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_vector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/box_map.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_graph.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_grid.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_graph.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/HYPRE_sstruct_graph.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_copy.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_matrix.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_overlap_innerprod.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/HYPRE_sstruct_matrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_axpy.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/HYPRE_sstruct_stencil.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/HYPRE_sstruct_grid.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_vector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_innerprod.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_stencil.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_grid.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_scale.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_stencil.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/sstruct_mv/sstruct_mv.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/umalloc_local.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/random.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/thread_mpistubs.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/hypre_qsort.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/amg_linklist.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/binsearch.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/umalloc_local.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/mpistubs.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/amg_linklist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/exchange_data.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/hypre_error.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/qsplit.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/memory_dmalloc.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/exchange_data.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/hypre_error.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/hypre_smp_forloop.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/threading.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/utilities.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/timing.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/mpistubs.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/thread_mpistubs.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/timer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/hypre_memory.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/threading.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/timing.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/HYPRE_utilities.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/general.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/utilities/hypre_memory.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/par_csr_matvec.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/par_csr_assumed_part.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/new_commpkg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/HYPRE_parcsr_matrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/par_csr_communication.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/par_csr_assumed_part.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/new_commpkg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/par_csr_communication.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/parcsr_mv.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/par_vector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/HYPRE_parcsr_vector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/headers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/HYPRE_parcsr_mv.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/par_csr_matop.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/par_csr_matrix.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/par_csr_matop_marked.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/par_csr_matrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_mv/par_vector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/krylov/pcg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/krylov/gmres.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/krylov/all_krylov.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/krylov/pcg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/krylov/HYPRE_MatvecFunctions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/krylov/HYPRE_pcg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/krylov/krylov.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/krylov/gmres.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/krylov/HYPRE_gmres.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/test/amg2013.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/csr_matop.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/big_csr_matrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/HYPRE_seq_mv.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/vector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/csr_matvec.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/HYPRE_csr_matrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/vector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/genpart.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/csr_matrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/csr_matrix.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/HYPRE_vector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/seq_mv.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/seq_mv/headers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/box_neighbors.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_vector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/box.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/HYPRE_struct_mv.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/box_pthreads.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_innerprod.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/assumed_part.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_communication.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/computation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/computation.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_axpy.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/box.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_matrix_mask.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_grid.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/box_manager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/box_algebra.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/headers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_grid.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/box_boundary.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_io.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/box_neighbors.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_matrix.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/HYPRE_struct_matrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_matrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/communication_info.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/hypre_box_smp_forloop.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/new_assemble.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/HYPRE_struct_vector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/HYPRE_struct_stencil.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/assumed_part.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/grow.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/box_alloc.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_vector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_overlap_innerprod.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/new_box_neighbors.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_scale.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_stencil.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_matvec.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_mv.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/HYPRE_struct_grid.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/project.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_stencil.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/box_manager.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_copy.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/struct_mv/struct_communication.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/aux_parcsr_matrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/headers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/HYPRE_IJVector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/IJMatrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/IJVector_parcsr.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/HYPRE_IJMatrix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/aux_par_vector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/IJ_matrix.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/IJ_mv.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/aux_par_vector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/HYPRE_IJ_mv.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/IJMatrix_parcsr.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/aux_parcsr_matrix.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/IJVector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/IJ_mv/IJ_vector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/partial.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_relax_interface.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_multi_interp.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_scaled_matnorm.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_nodal_systems.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/aux_interp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_relax_more.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/aux_interp.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/HYPRE_parcsr_gmres.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_difconv.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_stats.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_rap.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/HYPRE_parcsr_pcg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_amg_solve.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/headers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_relax.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/HYPRE_parcsr_amg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_strength.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_indepset.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_lr_interp.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_coarsen.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/pcg_par.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_cycle.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/gen_redcs_mat.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/parcsr_ls.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_rap_communication.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_coarse_parms.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/HYPRE_parcsr_ls.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_amg_setup.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_amg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_interp.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_amg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_cg_relax_wt.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_vardifconv.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_laplace.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_laplace_27pt.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AMG2013/parcsr_ls/par_jacobi_interp.c" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
